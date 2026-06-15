@@ -1,0 +1,6 @@
+{
+  "name": "Guardian Angel",
+  "description": "An advanced women's safety ecosystem with AI protection, multi-level SOS, fake call generator, secure evidence storage, and live emergency routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
